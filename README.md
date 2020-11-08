@@ -7,7 +7,7 @@
 </tr>
 
 <tr>
-    <th bgcolor="aliceblue">姓名</th>
+    <th align="center">姓名</th>
     <td bgcolor="aliceblue"> 武子豪</td>
     <th bgcolor="aliceblue">年龄</th>
     <td bgcolor="aliceblue">19</td>
